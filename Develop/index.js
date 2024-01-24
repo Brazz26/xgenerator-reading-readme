@@ -9,6 +9,19 @@ const questions = [
        type: 'input',
        name: 'title',
        message: 'What is the title of your application?' 
+    },
+    {
+        type: 'input',
+        name: 'description',
+        message: 'Describe your application'
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'what license would you like?',
+        choices: [
+            'MIT', 'APACHE2.0', 'GPL3.0', 'BSD3', 'None'
+        ]
     }
 ];
 
