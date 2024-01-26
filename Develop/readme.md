@@ -1,27 +1,33 @@
-# The Stuff
-  ![license](https://img.shields.io/badge/license-GPL3.0-red.svg)
+# fun
+  ![license](https://img.shields.io/badge/license-Maker-green.svg)
+  
+  
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [Features](#features)
    * [license](#license)
-  * []()
-  * []()
-  * []()
-  * []()
-  * 
-  * 
+  
+   
 
 ## Description
-Made for all users
+good app
 
 ## Installation
-inquirer and express
+alot
 
+## Usage
+word up
 
+## Credits
+me
 
+## Features
+does stuff
 
+## License Section 
+  The license chosen for this project is APACHE2.0
+  
 
-
-  ## License Section 
-  The license chosen for this project is GPL3.0
-  ;

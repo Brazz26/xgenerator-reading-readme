@@ -12,7 +12,9 @@
 
 ## Video
 
+## Screenshots
 
+![prompts](Develop/utils/images/screenshot.png)
 
 ## Repository Clone
 gh repo clone <https://Brazz26/xgenerator-reading-readme>

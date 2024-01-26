@@ -3,6 +3,8 @@ const fs = require('fs');
 const inquirer = require('inquirer');
 const path = require('path');
 const generateMarkdown = require('./utils/generateMarkdown');
+// const myBadge = ('<./utils/mybadge/>')
+// const { makeBadge, ValidationError } = require('badge-maker')
 
 // TODO: Array of questions for user input
 const questions = [
@@ -32,6 +34,11 @@ const questions = [
         message: 'List all collaborators:'
     },
     {
+        type: 'input',
+        name: 'features',
+        message: 'What are the features of your application?'
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'What license would you like to use?',
@@ -39,23 +46,19 @@ const questions = [
             'MIT',
             'APACHE2.0',
             'GPL3.0',
-            'BSD1',
             'BSD2',
             'BSD3',
             'None'
         ]
     },
-    {
-        type: 'input',
-        name: 'features',
-        message: 'What are the features of your application?'
-    },
+    
 ];
 
 // TODO: Function to write README file
 function writeToFile(fileName, data) {
     fs.writeFileSync(path.join(fileName), data)
 }
+
 
 // TODO: Function to initialize app
 function init() {
@@ -66,4 +69,4 @@ function init() {
 }
 
 // Function call to initialize app
-init();
+init()
