@@ -11,7 +11,7 @@
 - I learned a way to dynamically generate the readme and how to use the 'require' and the inquirer dependency
 
 ## Video
-
+![link to video]<video src="Develop/utils/video/xgenerator-reading-readme%20-%20Visual%20Studio%20Code%202024-01-26%2001-00-58.mp4" controls title="Title"></video>
 ## Screenshots
 
 ![prompts](Develop/utils/images/screenshot.png)

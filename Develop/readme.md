@@ -1,5 +1,5 @@
-# fun
-  ![license](https://img.shields.io/badge/license-Maker-green.svg)
+# 
+  ![license](https://img.shields.io/badge/bootcamp-coding-green.svg)
   
   
   ## Table of Contents
@@ -13,21 +13,21 @@
    
 
 ## Description
-good app
+
 
 ## Installation
-alot
+
 
 ## Usage
-word up
+
 
 ## Credits
-me
+
 
 ## Features
-does stuff
+
 
 ## License Section 
-  The license chosen for this project is APACHE2.0
+  The license chosen for this project is MIT
   
 
